@@ -2,6 +2,8 @@
 body {
   background-color: #e3f6ff;
   font-family: 'Caladea', serif;
+  width: 100%;
+  overflow-x: hidden;
 }
 hr {
   border-style: none;
